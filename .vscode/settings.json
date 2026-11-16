@@ -1,0 +1,6 @@
+{
+  // O Live Server tentará abrir o Google Chrome. Se o Chrome não estiver instalado,
+  // remova esta configuração ou troque o valor para "microsoft-edge".
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.NoBrowser": false
+}
